@@ -1,0 +1,17 @@
+<beacondo>
+	<screens>
+	</screens>
+
+	<beacons>
+		<beacon>
+			<uuid><![CDATA[E2C56DB5-DFFB-48D2-B060-D0F5A71096E0]]></uuid>
+			<majorValue>1</majorValue>
+			<minorValue>2</minorValue>
+			<rangeLimit>2</rangeLimit>
+			<link type="url"><![CDATA[https://bizzartech.com]]></link>
+			<prompt><![CDATA[]]></prompt>
+			<sound><![CDATA[]]></sound>
+			<frequency>always</frequency>
+		</beacon>
+	</beacons>
+</beacondo>
